@@ -20,5 +20,6 @@ examples of UI I Personally like:
 * Set up project folder structure
 * 
 
-
+***
+Here are 8 project ideas, complete with project briefs and layout ideas, to get you started learning by doing.
 [8 reactjs project ideas to start learning by doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
