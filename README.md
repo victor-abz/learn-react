@@ -19,3 +19,6 @@ examples of UI I Personally like:
 * Install Material UI for CSS Framework using `npm install @material-ui/core`
 * Set up project folder structure
 * 
+
+
+[8 reactjs project ideas to start learning by doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
