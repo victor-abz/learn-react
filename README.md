@@ -1,6 +1,6 @@
 # Learn react by creating a Profile App
 ## DAY 1
-* Using [Figma.com](figma.com) Design Mock up for Profile Landing with Your Image, Biography and social media links.
+Using [Figma.com](figma.com) Design Mock up for Profile Landing with Your Image, Biography and social media links.
 examples of UI I Personally like: 
 * [Victor Abizeyimana](https://victor-abz.com/)
 * [Dan Spratling](https://danspratling.dev/)
