@@ -1,10 +1,11 @@
 # Learn react by creating a Profile App
 ## DAY 1
-* Using Figam Design Mock up for Profile Landing with Image on the left, description with social media links on the right.
-examples of UI I like: 
+* Using [Figma.com](figma.com) Design Mock up for Profile Landing with Your Image, Biography and social media links.
+examples of UI I Personally like: 
 * [Victor Abizeyimana](https://victor-abz.com/)
 * [Dan Spratling](https://danspratling.dev/)
 * [search on UI Design Daily](https://uidesigndaily.com/)
+* [Dribbble](https://dribbble.com/shots/14205580-Home-Curriculum-Vitae)
 * [Other](https://www.mockplus.com/blog/post/web-developer-portfolio)
 
 ## Day 2
